@@ -1,0 +1,4 @@
+touch README.md  # Create a new file
+git add .
+git commit -m "Initial commit"
+git push origin main
